@@ -1,0 +1,14 @@
+{
+  "lockfileVersion": 1,
+  "configVersion": 1,
+  "workspaces": {
+    "": {
+      "dependencies": {
+        "apiforsearch": "^0.5.1",
+      },
+    },
+  },
+  "packages": {
+    "apiforsearch": ["apiforsearch@0.5.1", "", {}, "sha512-l1DkIe772Zu7hj4y/g91aq8t0a+BKNYBpsXtDPDVM00RQXoVXVkZLWSjQqrIlsZH9qjWyR26mrEhQyjgmUPL0Q=="],
+  }
+}

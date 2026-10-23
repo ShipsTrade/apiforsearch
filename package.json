@@ -1,0 +1,10 @@
+{
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "bun run src/ships.js"
+  },
+  "dependencies": {
+    "apiforsearch": "^0.5.1"
+  }
+}
